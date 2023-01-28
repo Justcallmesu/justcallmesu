@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-teal-psi-25.vercel.app/?username=Justcallmesu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://vercel.com/justcallmesu/github-stats/EQnCBL1ivMMuXqjwaXZqEXJUKumK/?username=Justcallmesu)](https://github.com/anuraghazra/github-readme-stats)
 
